@@ -1,7 +1,7 @@
-## CROS WORD / TEKA-TEKI SILANG
+# CROS WORD / TEKA-TEKI SILANG
 Cross Word about Web Programming
 
-# THIS IS THE ANSWER KEY (don't forget to use capital word😉!)
+### THIS IS THE ANSWER KEY (don't forget to use capital word😉!)
 1. SECURITY
 2. CSS
 3. FRONTEND
