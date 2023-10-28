@@ -1,4 +1,4 @@
-##CROS WORD / TEKA-TEKI SILANG
+## CROS WORD / TEKA-TEKI SILANG
 Cross Word about Web Programming
 
 # THIS IS THE ANSWER KEY (don't forget to use capital word😉!)
