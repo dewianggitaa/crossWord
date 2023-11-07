@@ -1,5 +1,6 @@
 # CROS WORD / TEKA-TEKI SILANG
 Cross Word about Web Programming
+This website is not responsive yet(T_T)
 
 ### THIS IS THE ANSWER KEY (don't forget to use capital word😉!)
 1. SECURITY
